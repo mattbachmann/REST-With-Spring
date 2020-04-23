@@ -21,7 +21,7 @@ public class UmApp {
             UmPersistenceJpaConfig.class,
             UmServiceConfig.class,
             UmWebConfig.class,
-            UmServletConfig.class,
+            UmServletConfig.class, // CORS config
 
             UmApp.class
     }; // @formatter:on
